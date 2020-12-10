@@ -55,3 +55,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#! Just-the-docs settings
+heading_anchors: true
